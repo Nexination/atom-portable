@@ -1,0 +1,14 @@
+* text eol=crlf
+*.ini text
+*.html text
+*.css text
+*.php text
+*.js text
+*.json text
+*.txt text
+*.scss text
+*.jpg binary
+*.png binary
+*.gif binary
+*.svg binary
+*.ico binary
